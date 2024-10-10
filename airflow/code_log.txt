@@ -1,0 +1,207 @@
+2024-09-02 20:28:27 : Initiating ETL process
+2024-09-02 20:28:27 : Initiating Extraction process
+2024-09-02 20:28:29 : Extraction process ended
+2024-09-02 20:28:29 : Initiating Transformation process
+2024-09-02 20:28:29 : Transformation process ended
+2024-09-02 20:28:29 : Initiating Load process to CSV
+2024-09-02 20:28:29 : Data successfully saved to ./Largest_banks_data.csv
+2024-09-02 20:28:29 : Load process to CSV ended
+2024-09-02 20:28:29 : Initiating Load process to Database
+2024-09-02 20:28:29 : Data successfully loaded into Largest_banks table in the database.
+2024-09-02 20:28:29 : Load process to Database ended
+2024-09-02 20:28:29 : Running a sample query on the Database
+2024-09-02 20:28:29 : Executing query: SELECT * FROM Largest_banks WHERE MC_GBP_Billion > 50
+2024-09-02 20:28:29 : Query executed successfully.
+2024-09-02 20:28:29 : ETL process completed successfully
+2024-09-02 20:42:25 : Initiating ETL process
+2024-09-02 20:42:25 : Initiating Extraction process
+2024-09-02 20:42:27 : Extraction process ended
+2024-09-02 20:42:27 : Initiating Transformation process
+2024-09-02 20:42:27 : Transformation process ended
+2024-09-02 20:42:27 : Initiating Load process to CSV
+2024-09-02 20:42:27 : Data successfully saved to ./Largest_banks_data.csv
+2024-09-02 20:42:27 : Load process to CSV ended
+2024-09-02 20:42:27 : Initiating Load process to Database
+2024-09-02 20:42:27 : Data successfully loaded into Largest_banks table in the database.
+2024-09-02 20:42:27 : Load process to Database ended
+2024-09-02 20:42:27 : Running a sample query on the Database
+2024-09-02 20:42:27 : Executing query: SELECT * FROM Largest_banks WHERE MC_GBP_Billion > 50
+2024-09-02 20:42:27 : Query executed successfully.
+2024-09-02 20:42:27 : ETL process completed successfully
+2024-09-02 23:40:40 : Initiating ETL process
+2024-09-02 23:40:40 : Initiating Extraction process
+2024-09-02 23:40:42 : Extraction process ended
+2024-09-02 23:40:42 : Initiating Transformation process
+2024-09-02 23:40:42 : Transformation process ended
+2024-09-02 23:40:42 : Initiating Load process to CSV
+2024-09-02 23:40:42 : Data successfully saved to ./Largest_banks_data.csv
+2024-09-02 23:40:42 : Load process to CSV ended
+2024-09-02 23:40:42 : Initiating Load process to Database
+2024-09-02 23:40:42 : Data successfully loaded into Largest_banks table in the database.
+2024-09-02 23:40:42 : Load process to Database ended
+2024-09-02 23:40:42 : Running a sample query on the Database
+2024-09-02 23:40:42 : Executing query: SELECT * FROM Largest_banks WHERE MC_GBP_Billion > 50
+2024-09-02 23:40:42 : Query executed successfully.
+2024-09-02 23:40:42 : ETL process completed successfully
+2024-09-02 23:41:01 : Initiating ETL process
+2024-09-02 23:41:01 : Initiating Extraction process
+2024-09-02 23:41:02 : Extraction process ended
+2024-09-02 23:41:02 : Initiating Transformation process
+2024-09-02 23:41:02 : Transformation process ended
+2024-09-02 23:41:02 : Initiating Load process to CSV
+2024-09-02 23:41:02 : Data successfully saved to ./Largest_banks_data.csv
+2024-09-02 23:41:02 : Load process to CSV ended
+2024-09-02 23:41:02 : Initiating Load process to Database
+2024-09-02 23:41:03 : Data successfully loaded into Largest_banks table in the database.
+2024-09-02 23:41:03 : Load process to Database ended
+2024-09-02 23:41:03 : Running a sample query on the Database
+2024-09-02 23:41:03 : Executing query: SELECT * FROM Largest_banks WHERE MC_GBP_Billion > 50
+2024-09-02 23:41:03 : Query executed successfully.
+2024-09-02 23:41:03 : ETL process completed successfully
+2024-09-02 23:41:08 : Initiating ETL process
+2024-09-02 23:41:08 : Initiating Extraction process
+2024-09-02 23:41:09 : Extraction process ended
+2024-09-02 23:41:09 : Initiating Transformation process
+2024-09-02 23:41:09 : Transformation process ended
+2024-09-02 23:41:09 : Initiating Load process to CSV
+2024-09-02 23:41:09 : Data successfully saved to ./Largest_banks_data.csv
+2024-09-02 23:41:09 : Load process to CSV ended
+2024-09-02 23:41:09 : Initiating Load process to Database
+2024-09-02 23:41:09 : Data successfully loaded into Largest_banks table in the database.
+2024-09-02 23:41:09 : Load process to Database ended
+2024-09-02 23:41:09 : Running a sample query on the Database
+2024-09-02 23:41:09 : Executing query: SELECT * FROM Largest_banks WHERE MC_GBP_Billion > 50
+2024-09-02 23:41:09 : Query executed successfully.
+2024-09-02 23:41:09 : ETL process completed successfully
+2024-09-02 23:41:16 : Initiating ETL process
+2024-09-02 23:41:16 : Initiating Extraction process
+2024-09-02 23:41:18 : Extraction process ended
+2024-09-02 23:41:18 : Initiating Transformation process
+2024-09-02 23:41:18 : Transformation process ended
+2024-09-02 23:41:18 : Initiating Load process to CSV
+2024-09-02 23:41:18 : Data successfully saved to ./Largest_banks_data.csv
+2024-09-02 23:41:18 : Load process to CSV ended
+2024-09-02 23:41:18 : Initiating Load process to Database
+2024-09-02 23:41:18 : Data successfully loaded into Largest_banks table in the database.
+2024-09-02 23:41:18 : Load process to Database ended
+2024-09-02 23:41:18 : Running a sample query on the Database
+2024-09-02 23:41:18 : Executing query: SELECT * FROM Largest_banks WHERE MC_GBP_Billion > 50
+2024-09-02 23:41:18 : Query executed successfully.
+2024-09-02 23:41:18 : ETL process completed successfully
+2024-09-02 23:42:42 : Initiating ETL process
+2024-09-02 23:42:42 : Initiating Extraction process
+2024-09-02 23:42:43 : Extraction process ended
+2024-09-02 23:42:43 : Initiating Transformation process
+2024-09-02 23:42:43 : Transformation process ended
+2024-09-02 23:42:43 : Initiating Load process to CSV
+2024-09-02 23:42:43 : Data successfully saved to ./Largest_banks_data.csv
+2024-09-02 23:42:43 : Load process to CSV ended
+2024-09-02 23:42:43 : Initiating Load process to Database
+2024-09-02 23:42:43 : Data successfully loaded into Largest_banks table in the database.
+2024-09-02 23:42:43 : Load process to Database ended
+2024-09-02 23:42:43 : Running a sample query on the Database
+2024-09-02 23:42:43 : Executing query: SELECT * FROM Largest_banks WHERE MC_GBP_Billion > 50
+2024-09-02 23:42:43 : Query executed successfully.
+2024-09-02 23:42:43 : ETL process completed successfully
+2024-09-02 23:43:27 : Initiating ETL process
+2024-09-02 23:43:27 : Initiating Extraction process
+2024-09-02 23:43:28 : Extraction process ended
+2024-09-02 23:43:28 : Initiating Transformation process
+2024-09-02 23:43:28 : Transformation process ended
+2024-09-02 23:43:28 : Initiating Load process to CSV
+2024-09-02 23:43:28 : Data successfully saved to ./Largest_banks_data.csv
+2024-09-02 23:43:28 : Load process to CSV ended
+2024-09-02 23:43:28 : Initiating Load process to Database
+2024-09-02 23:43:28 : Data successfully loaded into Largest_banks table in the database.
+2024-09-02 23:43:28 : Load process to Database ended
+2024-09-02 23:43:28 : Running a sample query on the Database
+2024-09-02 23:43:28 : Executing query: SELECT * FROM Largest_banks WHERE MC_GBP_Billion > 50
+2024-09-02 23:43:28 : Query executed successfully.
+2024-09-02 23:43:28 : ETL process completed successfully
+2024-09-02 23:44:22 : Initiating ETL process
+2024-09-02 23:44:22 : Initiating Extraction process
+2024-09-02 23:44:24 : Extraction process ended
+2024-09-02 23:44:24 : Initiating Transformation process
+2024-09-02 23:44:24 : Transformation process ended
+2024-09-02 23:44:24 : Initiating Load process to CSV
+2024-09-02 23:44:24 : Data successfully saved to ./Largest_banks_data.csv
+2024-09-02 23:44:24 : Load process to CSV ended
+2024-09-02 23:44:24 : Initiating Load process to Database
+2024-09-02 23:44:24 : Data successfully loaded into Largest_banks table in the database.
+2024-09-02 23:44:24 : Load process to Database ended
+2024-09-02 23:44:24 : Running a sample query on the Database
+2024-09-02 23:44:24 : Executing query: SELECT * FROM Largest_banks WHERE MC_GBP_Billion > 50
+2024-09-02 23:44:24 : Query executed successfully.
+2024-09-02 23:44:24 : ETL process completed successfully
+2024-09-02 23:44:35 : Initiating ETL process
+2024-09-02 23:44:35 : Initiating Extraction process
+2024-09-02 23:44:37 : Extraction process ended
+2024-09-02 23:44:37 : Initiating Transformation process
+2024-09-02 23:44:37 : Transformation process ended
+2024-09-02 23:44:37 : Initiating Load process to CSV
+2024-09-02 23:44:37 : Data successfully saved to ./Largest_banks_data.csv
+2024-09-02 23:44:37 : Load process to CSV ended
+2024-09-02 23:44:37 : Initiating Load process to Database
+2024-09-02 23:44:37 : Data successfully loaded into Largest_banks table in the database.
+2024-09-02 23:44:37 : Load process to Database ended
+2024-09-02 23:44:37 : Running a sample query on the Database
+2024-09-02 23:44:37 : Executing query: SELECT * FROM Largest_banks WHERE MC_GBP_Billion > 50
+2024-09-02 23:44:37 : Query executed successfully.
+2024-09-02 23:44:37 : ETL process completed successfully
+2024-09-02 23:49:35 : Initiating ETL process
+2024-09-02 23:49:35 : Initiating Extraction process
+2024-09-02 23:49:37 : Extraction process ended
+2024-09-02 23:49:37 : Initiating Transformation process
+2024-09-02 23:49:37 : Transformation process ended
+2024-09-02 23:49:37 : Initiating Load process to CSV
+2024-09-02 23:49:37 : Data successfully saved to ./Largest_banks_data.csv
+2024-09-02 23:49:37 : Load process to CSV ended
+2024-09-02 23:49:37 : Initiating Load process to Database
+2024-09-02 23:49:37 : Data successfully loaded into Largest_banks table in the database.
+2024-09-02 23:49:37 : Load process to Database ended
+2024-09-02 23:49:37 : Running a sample query on the Database
+2024-09-02 23:49:37 : Executing query: SELECT * FROM Largest_banks WHERE MC_GBP_Billion > 50
+2024-09-02 23:49:37 : Query executed successfully.
+2024-09-02 23:49:37 : Executing query: SELECT AVG(MC_GBP_Billion) FROM Largest_banks
+2024-09-02 23:49:37 : Query executed successfully.
+2024-09-02 23:49:37 : Executing query: SELECT Name from Largest_banks LIMIT 5
+2024-09-02 23:49:37 : Error executing query: Execution failed on sql 'SELECT Name from Largest_banks LIMIT 5': no such column: Name
+2024-09-02 23:49:37 : ETL process completed successfully
+2024-09-02 23:49:58 : Initiating ETL process
+2024-09-02 23:49:58 : Initiating Extraction process
+2024-09-02 23:50:00 : Extraction process ended
+2024-09-02 23:50:00 : Initiating Transformation process
+2024-09-02 23:50:00 : Transformation process ended
+2024-09-02 23:50:00 : Initiating Load process to CSV
+2024-09-02 23:50:00 : Data successfully saved to ./Largest_banks_data.csv
+2024-09-02 23:50:00 : Load process to CSV ended
+2024-09-02 23:50:00 : Initiating Load process to Database
+2024-09-02 23:50:00 : Data successfully loaded into Largest_banks table in the database.
+2024-09-02 23:50:00 : Load process to Database ended
+2024-09-02 23:50:00 : Running a sample query on the Database
+2024-09-02 23:50:00 : Executing query: SELECT * FROM Largest_banks WHERE MC_GBP_Billion > 50
+2024-09-02 23:50:00 : Query executed successfully.
+2024-09-02 23:50:00 : Executing query: SELECT AVG(MC_GBP_Billion) FROM Largest_banks
+2024-09-02 23:50:00 : Query executed successfully.
+2024-09-02 23:50:00 : Executing query: SELECT Bank Name from Largest_banks LIMIT 5
+2024-09-02 23:50:00 : Error executing query: Execution failed on sql 'SELECT Bank Name from Largest_banks LIMIT 5': no such column: Bank
+2024-09-02 23:50:00 : ETL process completed successfully
+2024-09-02 23:50:57 : Initiating ETL process
+2024-09-02 23:50:57 : Initiating Extraction process
+2024-09-02 23:50:58 : Extraction process ended
+2024-09-02 23:50:58 : Initiating Transformation process
+2024-09-02 23:50:58 : Transformation process ended
+2024-09-02 23:50:58 : Initiating Load process to CSV
+2024-09-02 23:50:58 : Data successfully saved to ./Largest_banks_data.csv
+2024-09-02 23:50:58 : Load process to CSV ended
+2024-09-02 23:50:58 : Initiating Load process to Database
+2024-09-02 23:50:58 : Data successfully loaded into Largest_banks table in the database.
+2024-09-02 23:50:58 : Load process to Database ended
+2024-09-02 23:50:58 : Running a sample query on the Database
+2024-09-02 23:50:58 : Executing query: SELECT * FROM Largest_banks WHERE MC_GBP_Billion > 50
+2024-09-02 23:50:58 : Query executed successfully.
+2024-09-02 23:50:58 : Executing query: SELECT AVG(MC_GBP_Billion) FROM Largest_banks
+2024-09-02 23:50:58 : Query executed successfully.
+2024-09-02 23:50:58 : Executing query: SELECT 'Bank Name' from Largest_banks LIMIT 5
+2024-09-02 23:50:58 : Query executed successfully.
+2024-09-02 23:50:58 : ETL process completed successfully

@@ -1,0 +1,13 @@
+# Ignore the .venv directory
+.venv/
+.dist/
+
+# Ignore large JAR files
+kafka/kafka_2.13-3.8.0/libs/rocksdbjni-7.9.2.jar
+
+# Ignore large TGZ files
+kafka/kafka_2.13-3.8.0.tgz
+kafka/kafka_2.13-3.8.0
+
+# Exclude example.sh from being ignored
+!/kafka/example.sh

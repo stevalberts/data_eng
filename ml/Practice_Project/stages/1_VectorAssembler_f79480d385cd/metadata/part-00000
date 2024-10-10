@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1728194491920,"sparkVersion":"3.5.3","uid":"VectorAssembler_f79480d385cd","paramMap":{"inputCols":["Cylinders","Engine_Disp","Horsepower","Weight","Accelerate","Year"],"outputCol":"features"},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_f79480d385cd__output"}}
