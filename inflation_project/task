@@ -1,0 +1,27 @@
+inflation_project/
+├── data/
+│   ├── sample_data/                # Sample data for testing
+│   ├── cloud_links.md              # Document with S3 links for processed and aggregated data
+├── src/
+│   ├── ingestion/                  # Scripts for data ingestion and S3 uploads
+│   ├── cleaning/                   # Data cleaning and preprocessing scripts, including anomaly detection
+│   ├── transformation/             # Data transformations, feature engineering
+│   ├── aggregation/                # Scripts for weekly/monthly metrics computation
+│   ├── analysis/                   # Scripts for generating reports and trend analysis
+│   ├── models/                     # Forecasting models and model monitoring functions
+│   ├── quality/                    # Data quality checks, logging, and anomaly detection
+│   └── utils/                      # Helper functions (e.g., for API interactions, logging)
+├── notebooks/                      # Jupyter notebooks for exploratory analysis and model training
+├── config/                         # Configuration files (AWS credentials, project settings)
+├── reports/
+│   ├── power_bi/                   # Power BI project files
+│   ├── dashboards/                 # Power BI dashboards
+│   └── templates/                  # Report templates for Power BI
+├── docs/                           # Documentation for pipeline and API usage
+│   ├── user_guide.md               # User guide for onboarding and usage
+│   └── api_documentation.md        # API documentation for integration endpoints
+├── tests/                          # Unit tests for data quality and model performance
+├── security/                       # IAM configurations, encryption setup files
+├── logs/                           # Detailed logs for tracking pipeline operations
+├── airflow_dags/                   # Apache Airflow DAGs to automate weekly tasks
+└── notifications/                  # Scripts for error notifications (e.g., Slack/email)
